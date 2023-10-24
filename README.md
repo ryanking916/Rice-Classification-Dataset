@@ -1,5 +1,5 @@
 # Rice-Classification-Dataset
-Personal Info
+## Personal Info
 * Ryan King
 * 2385162
 * ryanking@chapman.edu
